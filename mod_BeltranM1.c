@@ -5,7 +5,7 @@
  * Descripción: 
  *  Este programa realiza la multiplicación de dos 
  *  matrices cuadradas de tamaño N, ingresado por el 
- *  usuario como argumento en la ejecución. 
+ *  usuario. 
  *  -Reserva memoria dinámica para tres matrices (A, B, C).
  *  -Inicializa A y B con valores y C en cero.
  *  - Multiplica A y B para obtener C.
