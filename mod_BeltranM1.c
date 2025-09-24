@@ -1,3 +1,16 @@
+/******************************************************
+ * Programa: Multiplicación de matrices dinámica
+ * Nombre: Mauricio Beltrán Huertas
+ * Fecha: 24/09/2025
+ * Descripción: 
+ *  Este programa realiza la multiplicación de dos 
+ *  matrices cuadradas de tamaño N, ingresado por el 
+ *  usuario como argumento en la ejecución. 
+ *  -Reserva memoria dinámica para tres matrices (A, B, C).
+ *  -Inicializa A y B con valores y C en cero.
+ *  - Multiplica A y B para obtener C.
+ *  - Imprime las matrices y mide el tiempo de ejecución.
+ ******************************************************/
 #include <stdio.h> // libreria para las entradas y las salidas 
 #include <stdlib.h> //  libreria para usar malloc, free
 #include "modulo.h" // encabezado propio con funciones auxiliares 
