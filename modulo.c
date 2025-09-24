@@ -4,7 +4,7 @@
  * Fecha: 24/09/2025
  * Descripción:
  *  Implementación de las funciones auxiliares que se usaron
- *  en la multiplicación de matrices.
+ *  en el programa.
  *  Contiene:
  *   - Medición de tiempos de ejecución 
  *   - Inicialización de matrices con valores 
