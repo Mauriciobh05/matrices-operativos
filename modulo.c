@@ -3,9 +3,8 @@
  * Nombre: Mauricio Beltrán Huertas
  * Fecha: 24/09/2025
  * Descripción:
- *  Implementación de funciones auxiliares utilizadas 
+ *  Implementación de las funciones auxiliares que se usaron
  *  en la multiplicación de matrices.
- *  
  *  Contiene:
  *   - Medición de tiempos de ejecución 
  *   - Inicialización de matrices con valores 
