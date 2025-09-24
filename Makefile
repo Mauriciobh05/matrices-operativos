@@ -1,7 +1,7 @@
 #####################################################################
 # Makefile: automatización de compilación
 # Nombre: Mauricio Beltrán Huertas
-# Fecha: 23/9/2025
+# Fecha: 24/9/2025
 #####################################################################
 
 GCC = gcc #  se define cual compilador se va a usar 
