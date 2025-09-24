@@ -1,3 +1,20 @@
+/******************************************************
+ * Archivo: modulo.c
+ * Nombre: Mauricio Beltrán Huertas
+ * Fecha: 24/09/2025
+ * Descripción:
+ *  Implementación de funciones auxiliares utilizadas 
+ *  en la multiplicación de matrices.
+ *  
+ *  Contiene:
+ *   - Medición de tiempos de ejecución 
+ *   - Inicialización de matrices con valores 
+ *     predeterminados (iniMatriz).
+ *   - Impresión de matrices en consola (imprMatrices).
+ *  
+ *   - Se utiliza la librería <sys/time.h> para la 
+ *  medición precisa de tiempos en microsegundos.
+ ******************************************************/
 #include <stdio.h> // libreria que se usa para las entradas y las salidas 
 #include <stdlib.h> // libreria para usar malloc, free 
 #include <sys/time.h> // libreria para medir los tiempos 
